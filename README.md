@@ -90,9 +90,7 @@ schemas/order.avsc
 
 - After 5 failures → DLQ
 ## Demo
-The demo video is included in this repository.
-
-GitHub cannot preview large videos, so you can download and watch it from the demo/ folder.
+https://youtu.be/9jXc7WO8bsg
 
 
 
